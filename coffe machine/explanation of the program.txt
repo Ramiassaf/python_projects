@@ -1,0 +1,7 @@
+The program represents a coffee machine, which allows the user to select a type of coffee such as "espresso", "latte", or "cappuccino". The ingredients and cost required to make each coffee are stored in a dictionary called "MENU". The available resources such as "water", "milk", and "coffee" are also stored in a dictionary called "resources".
+
+When the program runs, it prompts the user to select a type of coffee. If the user inputs "off", the coffee machine enters maintenance mode and the program terminates. If the user inputs "report", the program prints out the current status of the resources and profit earned by the coffee machine.
+
+Otherwise, the program checks if there are enough resources to make the selected coffee by calling the "check_resources" function. If there are enough resources, the program asks the user to insert coins and calculates the total amount of coins entered by the user. If the total amount is greater than or equal to the cost of the selected coffee, the program dispenses the coffee, calculates the change and adds the cost of the coffee to the profit. If the total amount is less than the cost, the program informs the user that the amount is not sufficient and refunds the money.
+
+Overall, the program implements the basic functionality of a coffee machine by allowing the user to select a type of coffee, checking for available resources and calculating the change for the user.
