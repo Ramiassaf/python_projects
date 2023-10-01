@@ -80,7 +80,7 @@ website_entry.grid(row=1, column=1, columnspan=2)
 
 email_entry = Entry(width=35)
 email_entry.insert(END, string="")
-email_entry.insert(END, string="rami@gmail.com")
+email_entry.insert(END, string="")
 # Gets text in entry
 print(email_entry.get())
 email_entry.grid(row=2, column=1, columnspan=2)
