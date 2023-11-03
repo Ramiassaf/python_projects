@@ -1,4 +1,1 @@
-website: sdasasd | email: rami@gmail.com | password: sss
-website: adadads | email: rami@gmail.com | password: eee
-website: sfsaaa | email: rami@gmail.com | password: rere
 website: amazon | email: rami@gmail.com | password: wwfqGTo%Z327B(
