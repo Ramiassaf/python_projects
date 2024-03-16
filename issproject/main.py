@@ -8,8 +8,8 @@ MY_LAT = 24.713552
 MY_LONG = 46.675297
 
 # Set up email credentials
-MY_EMAIL = "ramisassaf132@gmail.com"
-PASSWORD = "dmwe xrhh emmd nofs"
+MY_EMAIL = ""
+PASSWORD = ""
 
 # BONUS: run the code every 60 seconds.
 def every_60_seconds():
